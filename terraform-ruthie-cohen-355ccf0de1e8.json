@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "terraform-ruthie-cohen",
+  "private_key_id": "355ccf0de1e8f0423b39a259ae5f7f7ef0d564a1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDCScpDN6sSQ14\nAohcAo+uuqhDoMLdfHYh3V8ER6UtNzA4EjawDo0Hjwun4TPJKyIkAJPNb0rvA2k5\n75iBVUnQUvgr7CyYXuke69T5lmhR+Ynd1QNx8pb8vqfLpTY6HEXWt2HZbrRQIfpI\n9+bMZIZYUEEjIPwe4GL/2nBdNKo+RGwv/G+A9tXIhWuF3kb5zKZ7scY47zL9lkLp\nkO/6jYln/wfAdprdL1x9WvL8EyijUF25HUO7rbn6FCufTv+M+ASjrdqfQ4PH/iQO\nM5BqsGZz6lRv8PEe1h1Nr3jVeF/5385vPynL/t2hVg1vwdGmRRMP84xv3L1km/3e\nXQrbJUBpAgMBAAECggEAYAqzUocoZf2pWMYigPCv8ZKwRnE1VF00TRPWdOSVBdGN\n+KabcJIRx72ct0RyPGd1rfXs0rax10Y+PI3scw/dQ+1/kR2Bjlz6fkQSwf9biraP\nugHp6uRTjs2SEnneXLpMd+IhGLHnsCgzOFh/OnpsH7QRh2t4S/oiNizKtVM4XGV4\nLhIIU/3eTibaVINyJZtqESVMm22pX6hfSJOaRr9dzPdlx6xtF60ISiXmsXSrWiQP\nNoB7cnq9k0cliQBXtu0hI9IzE6YoE42RAQsG7lz/Jm2yAPqcupK7+4MqXbN4PPr7\nWCXpchHK6gs9X7dkdQZjaHbh9+jsYwHbq+rFwctjawKBgQDh3mxSP4kvnm6WYmyJ\nDAmH1G5MUu0CGNZUJo7/9dKl8ChpXaFdTN9XTZiP2XNGkBkEpVlpe6yMPAPNbF6S\nZnsdSgOxGaSsk7Bq7KUMjKSefOP7uUxcu9lCg+7hc0Sq8ImNGZFVDBPnFfKRUjwC\nodEcC0puLlCJS0ZMCiGHH2yhjwKBgQDdDcI2ZLDCXDJ9PG7ss7hPdhVc4jwLPl1Z\nQFdX7UTIK3+0cRHxAsPTjUHyPueiNmCjNJmRqxxsGGagfUJe7uoV3tkMOYK+/yzF\ndQ2tLClRRrgpL05yi50yYFIpI7QZLBJGh4dKXkR5FAYay+E6kPMmf8IO76hquOz/\nLRmkQoAShwKBgQC7Klfyk+m3Rv72qRqtOgdPwi2gG3uAqFo6ozUOT4K9tNOX9Fl5\n+fB85LUORq/qgg/pNKdx7GTgU/8Go81+XWOZsrJ6d/hodX3ULMLcMlNbbbxx5Gut\n0I/JOZCiy6TUTbx96vjuU7LOY/Z8i3tk5vhj18tWoBRmoLTg3+hGkziuawKBgQC0\nRJUeEI0JY3CVKuR2ybVDr9OKFMDMloY/07Wm8cqGxtp1B0SPXCbgbbDa4au6YEf8\nsFeQMI+UI24F8UBf9MwXG827J2dVZPlY6bVGhN4I9vgWNgruZKbEP0KhZAlqAcPB\nmqKc5jVG3CqCTcOWJED2I3fZAF5C8h3rlxbzGnwhHwKBgCWNkpoet3CaslWV3u+m\nXNGPO+r86tYqJCY7WeoEbzS2Vsd6EuR6clri3cAKCqFEGhHTflILOTj7MuOLOQgW\noDgt15PzNqZFwa0zaqTNluphU5NpU7Lks7U4lJh3hI/Pg81VTreNxmfMW9AY3nSw\nq63Wj4IOyYrCedYw9XVHrF00\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-code@terraform-ruthie-cohen.iam.gserviceaccount.com",
+  "client_id": "108361939001523081593",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-code%40terraform-ruthie-cohen.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
